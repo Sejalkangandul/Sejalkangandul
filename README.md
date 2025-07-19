@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Sejalkangandul/Sejalkangandul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Information Systems | Background in Computer Science <br/>
 
-Here are some ideas to get you started:
+🛠️ Skilled in Python, SQL, Power BI, Tableau, MySQL, and CustomTkinter <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about data storytelling, automation, and process improvement <br/>
+
+🧠 Built predictive models, dashboards & full-stack apps for real-world use cases <br/>
+
+🚀 Certified in Data Analytics Essentials,MongoDB, SQL BI, and Lean Six Sigma Green Belt <br/>
+
+🔍 Always exploring new ways to turn data into decisions <br/>
+
+
+
